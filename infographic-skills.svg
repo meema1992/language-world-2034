@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565">
+<style>
+.title{font:700 30px Arial;fill:#073b32} .sub{font:500 16px Arial;fill:#5d7770}
+.st{font:700 18px Arial;fill:#073b32} .sd{font:500 14px Arial;line-height:1.7;color:#58716b}
+.icon{font:800 18px Arial;fill:#fff}
+</style>
+<rect width="1000" height="565" rx="28" fill="#f6faf8"/>
+<text x="500" y="58" text-anchor="middle" class="title">جدارات التميز لخريج اللغات والترجمة</text>
+<text x="500" y="88" text-anchor="middle" class="sub">أكثر من مترجم: قائد تواصل دولي يعمل تحت الضغط</text>
+
+    <rect x="45" y="145" width="440" height="165" rx="24" fill="#fff" stroke="#dbe7e3"/>
+    <circle cx="103" cy="207" r="32" fill="#0a6b57"/><text x="103" y="214" text-anchor="middle" class="icon">◌</text>
+    <text x="155" y="190" class="st">التواصل العابر للثقافات</text>
+    <foreignObject x="155" y="210" width="300" height="80"><div xmlns="http://www.w3.org/1999/xhtml" class="sd">فهم الأبعاد الثقافية واختلاف العادات لتجنب الحساسيات في الميدان.</div></foreignObject>
+    
+    <rect x="515" y="145" width="440" height="165" rx="24" fill="#fff" stroke="#dbe7e3"/>
+    <circle cx="573" cy="207" r="32" fill="#0a6b57"/><text x="573" y="214" text-anchor="middle" class="icon">!</text>
+    <text x="625" y="190" class="st">إدارة الأزمات اللغوية</text>
+    <foreignObject x="625" y="210" width="300" height="80"><div xmlns="http://www.w3.org/1999/xhtml" class="sd">سرعة البديهة والتدخل الفوري لحل الإشكالات تحت الضغط.</div></foreignObject>
+    
+    <rect x="45" y="350" width="440" height="165" rx="24" fill="#fff" stroke="#dbe7e3"/>
+    <circle cx="103" cy="412" r="32" fill="#0a6b57"/><text x="103" y="419" text-anchor="middle" class="icon">AI</text>
+    <text x="155" y="395" class="st">المرونة اللغوية الرقمية</text>
+    <foreignObject x="155" y="415" width="300" height="80"><div xmlns="http://www.w3.org/1999/xhtml" class="sd">توظيف الترجمة الفورية والذكاء الاصطناعي لتسريع العمل.</div></foreignObject>
+    
+    <rect x="515" y="350" width="440" height="165" rx="24" fill="#fff" stroke="#dbe7e3"/>
+    <circle cx="573" cy="412" r="32" fill="#0a6b57"/><text x="573" y="419" text-anchor="middle" class="icon">◆</text>
+    <text x="625" y="395" class="st">البروتوكول والاتيكيت الرياضي</text>
+    <foreignObject x="625" y="415" width="300" height="80"><div xmlns="http://www.w3.org/1999/xhtml" class="sd">الالتزام بمعايير الاستقبال والتعامل مع الوفود والإعلام الدولي.</div></foreignObject>
+    
+</svg>

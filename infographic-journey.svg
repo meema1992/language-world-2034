@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590">
+<style>
+.title{font:700 30px Arial;fill:#fff} .sub{font:500 16px Arial;fill:#d9eee8}
+.cardtitle{font:700 16px Arial;fill:#073b32} .desc{font:500 15px Arial;line-height:1.8;color:#526d66;text-align:center}
+.num{font:800 14px Arial;fill:#fff}
+</style>
+<rect width="1000" height="590" rx="28" fill="#063b32"/>
+<text x="500" y="62" text-anchor="middle" class="title">رحلة الزائر ونقاط التماس اللغوي الحرجة</text>
+<text x="500" y="92" text-anchor="middle" class="sub">من لحظة الوصول حتى الحركة داخل منظومة البطولة</text>
+<path d="M140 108 C250 75 330 75 430 108 S620 140 730 108 S850 80 900 110" fill="none" stroke="#d5b56a" stroke-width="3" stroke-dasharray="7 8"/>
+
+    <rect x="45" y="135" width="205" height="390" rx="22" fill="#ffffff" stroke="#d7e5e0"/>
+    <circle cx="87" cy="180" r="25" fill="#0a6b57"/><text x="87" y="187" text-anchor="middle" class="num">01</text>
+    <text x="147" y="240" text-anchor="middle" class="cardtitle">منافذ الوصول والمطارات الدولية</text>
+    <foreignObject x="63" y="280" width="169" height="180"><div xmlns="http://www.w3.org/1999/xhtml" class="desc">استقبال الزوار، فرز اللغات، وتجاوز عقبات الوصول الفورية.</div></foreignObject>
+    
+    <rect x="280" y="135" width="205" height="390" rx="22" fill="#ffffff" stroke="#d7e5e0"/>
+    <circle cx="322" cy="180" r="25" fill="#0a6b57"/><text x="322" y="187" text-anchor="middle" class="num">02</text>
+    <text x="382" y="240" text-anchor="middle" class="cardtitle">مرافقة الوفود والمنتخبات الرسمية</text>
+    <foreignObject x="298" y="280" width="169" height="180"><div xmlns="http://www.w3.org/1999/xhtml" class="desc">Liaison Officers لتسهيل التواصل التنظيمي والإعلامي مع الوفود.</div></foreignObject>
+    
+    <rect x="515" y="135" width="205" height="390" rx="22" fill="#ffffff" stroke="#d7e5e0"/>
+    <circle cx="557" cy="180" r="25" fill="#0a6b57"/><text x="557" y="187" text-anchor="middle" class="num">03</text>
+    <text x="617" y="240" text-anchor="middle" class="cardtitle">مهرجانات الفيفا ومراكز المشجعين</text>
+    <foreignObject x="533" y="280" width="169" height="180"><div xmlns="http://www.w3.org/1999/xhtml" class="desc">إرشاد ثقافي، توجيه، ومساندة جماهيرية في نقاط التجمع.</div></foreignObject>
+    
+    <rect x="750" y="135" width="205" height="390" rx="22" fill="#ffffff" stroke="#d7e5e0"/>
+    <circle cx="792" cy="180" r="25" fill="#0a6b57"/><text x="792" y="187" text-anchor="middle" class="num">04</text>
+    <text x="852" y="240" text-anchor="middle" class="cardtitle">الملاعب والمنشآت التدريبية</text>
+    <foreignObject x="768" y="280" width="169" height="180"><div xmlns="http://www.w3.org/1999/xhtml" class="desc">ربط لغوي ولوجستي فوري بين الزوار والمنظمين والفرق.</div></foreignObject>
+    
+<text x="500" y="560" text-anchor="middle" class="sub">134 منشأة تدريبية ضمن نقاط التماس التشغيلية الواردة في البحث</text>
+</svg>
